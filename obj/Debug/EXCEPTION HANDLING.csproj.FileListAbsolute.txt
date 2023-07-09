@@ -1,0 +1,8 @@
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\bin\Debug\EXCEPTION HANDLING.exe.config
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\bin\Debug\EXCEPTION HANDLING.exe
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\bin\Debug\EXCEPTION HANDLING.pdb
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\obj\Debug\EXCEPTION HANDLING.csproj.AssemblyReference.cache
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\obj\Debug\EXCEPTION HANDLING.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\obj\Debug\EXCEPTION HANDLING.csproj.CoreCompileInputs.cache
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\obj\Debug\EXCEPTION HANDLING.exe
+C:\Users\Ranjith\source\repos\Myproject\EXCEPTION HANDLING\obj\Debug\EXCEPTION HANDLING.pdb
